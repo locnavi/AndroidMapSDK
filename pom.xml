@@ -6,7 +6,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>com.locnavi.map</groupId>
    <artifactId>locnavi</artifactId>
-   <version>0.4.5</version>
+   <version>0.5.3</version>
  <dependencies>
  <dependency>
       <groupId>com.android.support</groupId>
